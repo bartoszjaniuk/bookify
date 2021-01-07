@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://bartoszjaniuk.github.io/bookify/",
   "browserslist": "last 10 versions",
-  "main": "index.js",
+  "main": "slider.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
